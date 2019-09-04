@@ -1,0 +1,10 @@
+C:\Users\Rishi Privah PHEA\source\repos\DataAccess.Library\DataAccess.Library\bin\Debug\DataAccess.Library.dll
+C:\Users\Rishi Privah PHEA\source\repos\DataAccess.Library\DataAccess.Library\bin\Debug\DataAccess.Library.pdb
+C:\Users\Rishi Privah PHEA\source\repos\DataAccess.Library\DataAccess.Library\bin\Debug\System.Data.SQLite.dll
+C:\Users\Rishi Privah PHEA\source\repos\DataAccess.Library\DataAccess.Library\bin\Debug\System.Data.SQLite.xml
+C:\Users\Rishi Privah PHEA\source\repos\DataAccess.Library\DataAccess.Library\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Rishi Privah PHEA\source\repos\DataAccess.Library\DataAccess.Library\obj\Debug\DataAccess.Library.csprojAssemblyReference.cache
+C:\Users\Rishi Privah PHEA\source\repos\DataAccess.Library\DataAccess.Library\obj\Debug\DataAccess.Library.csproj.CoreCompileInputs.cache
+C:\Users\Rishi Privah PHEA\source\repos\DataAccess.Library\DataAccess.Library\obj\Debug\DataAccess.Library.csproj.CopyComplete
+C:\Users\Rishi Privah PHEA\source\repos\DataAccess.Library\DataAccess.Library\obj\Debug\DataAccess.Library.dll
+C:\Users\Rishi Privah PHEA\source\repos\DataAccess.Library\DataAccess.Library\obj\Debug\DataAccess.Library.pdb
